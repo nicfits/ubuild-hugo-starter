@@ -7,7 +7,7 @@ block = "header-1"
 template = "navigation-header"
 [[page_sections]]
 block = "one-column-1"
-content = "here's the content for this block."
+content = "here's the content for this block. updated!"
 headline = "one column of text"
 template = "1-column-text"
 
