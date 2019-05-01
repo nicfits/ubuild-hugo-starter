@@ -6,6 +6,9 @@ title = "Behold, page builder content. "
 block = "header-1"
 template = "navigation-header"
 [[page_sections.navigation]]
+link_text = "About"
+link_url = "https://www.google.com"
+[[page_sections.navigation]]
 link_text = "Home"
 link_url = "/"
 [[page_sections]]
