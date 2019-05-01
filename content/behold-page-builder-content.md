@@ -5,5 +5,10 @@ title = "Behold, page builder content. "
 [[page_sections]]
 block = "header-1"
 template = "navigation-header"
+[[page_sections]]
+block = "one-column-1"
+content = "here's the content for this block."
+headline = "one column of text"
+template = "1-column-text"
 
 +++
